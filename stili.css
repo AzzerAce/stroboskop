@@ -45,3 +45,9 @@ telo {
 #novaBarva, #odstraniBarve {
 	background: white;
 }
+
+telo, #novaBarva, #odstraniBarve, button {
+    border: solid 1px red;
+    box-shadow: gray 5px 5px 5px;
+    border-radius:5px;
+}
